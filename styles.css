@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hsl(215, 56%, 48%);
+}
+
+h1 {
+    color: hsl(179, 0%, 28%);
+    font-weight: 800;
+}
+
+
+h2 {
+    color: hsl(209, 30%, 43%);
+    font-weight: 600;
+}
+
+h3 {
+    color: hsl(209, 60%, 43%);
+    font-weight: 300;
+}
+
+
+.list {
+    color: rgb(119, 160, 218);
+}
+
+.list.sub {
+    font-style: italic;
+}
+
+#return {
+    color: #f1aea2;
+}
